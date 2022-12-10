@@ -20,14 +20,9 @@
 
     .home-pic{ display: none;}
 
-    /* .parent {
-        display: flex;
-        justify-content: space-around;
-        align-items: center;
-        flex-direction: column;
-        border: solid 1px red;
-        height: inherit;
-    } */
+    .parent {
+        height: auto;
+    }
 
     .analog-parent {
         display: flex;
